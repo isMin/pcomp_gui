@@ -1,0 +1,9 @@
+D:\Projects\pcomp_gui\pcomp_gui\bin\Debug\pcomp.exe.config
+D:\Projects\pcomp_gui\pcomp_gui\bin\Debug\pcomp.exe
+D:\Projects\pcomp_gui\pcomp_gui\bin\Debug\pcomp.pdb
+D:\Projects\pcomp_gui\pcomp_gui\obj\Debug\pcomp_gui.csprojResolveAssemblyReference.cache
+D:\Projects\pcomp_gui\pcomp_gui\obj\Debug\pcomp_gui.Form1.resources
+D:\Projects\pcomp_gui\pcomp_gui\obj\Debug\pcomp.Properties.Resources.resources
+D:\Projects\pcomp_gui\pcomp_gui\obj\Debug\pcomp_gui.csproj.GenerateResource.Cache
+D:\Projects\pcomp_gui\pcomp_gui\obj\Debug\pcomp.exe
+D:\Projects\pcomp_gui\pcomp_gui\obj\Debug\pcomp.pdb
