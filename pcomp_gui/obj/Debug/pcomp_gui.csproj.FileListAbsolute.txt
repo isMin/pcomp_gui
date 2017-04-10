@@ -15,3 +15,4 @@ C:\Users\devpower\Documents\Projects\pcomp_gui\pcomp_gui\obj\Debug\pcomp.Propert
 C:\Users\devpower\Documents\Projects\pcomp_gui\pcomp_gui\obj\Debug\pcomp_gui.csproj.GenerateResource.Cache
 C:\Users\devpower\Documents\Projects\pcomp_gui\pcomp_gui\obj\Debug\pcomp.exe
 C:\Users\devpower\Documents\Projects\pcomp_gui\pcomp_gui\obj\Debug\pcomp.pdb
+C:\Users\devpower\Documents\Projects\pcomp_gui\pcomp_gui\obj\Debug\pcomp_gui.csprojResolveAssemblyReference.cache
