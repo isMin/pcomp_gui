@@ -11,7 +11,7 @@ C:\Users\devpower\Documents\Projects\pcomp_gui\pcomp_gui\bin\Debug\pcomp.exe.con
 C:\Users\devpower\Documents\Projects\pcomp_gui\pcomp_gui\bin\Debug\pcomp.exe
 C:\Users\devpower\Documents\Projects\pcomp_gui\pcomp_gui\bin\Debug\pcomp.pdb
 C:\Users\devpower\Documents\Projects\pcomp_gui\pcomp_gui\obj\Debug\pcomp_gui.Form1.resources
-C:\Users\devpower\Documents\Projects\pcomp_gui\pcomp_gui\obj\Debug\pcomp.Properties.Resources.resources
+C:\Users\devpower\Documents\Projects\pcomp_gui\pcomp_gui\obj\Debug\pfile.Properties.Resources.resources
 C:\Users\devpower\Documents\Projects\pcomp_gui\pcomp_gui\obj\Debug\pcomp_gui.csproj.GenerateResource.Cache
 C:\Users\devpower\Documents\Projects\pcomp_gui\pcomp_gui\obj\Debug\pcomp.exe
 C:\Users\devpower\Documents\Projects\pcomp_gui\pcomp_gui\obj\Debug\pcomp.pdb

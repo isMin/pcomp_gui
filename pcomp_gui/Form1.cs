@@ -2,7 +2,7 @@
 using System.Text;
 using System.Windows.Forms;
 using System.IO;
-using pcomp;
+using pcompare;
 
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -15,9 +15,6 @@ namespace pcomp_gui
 {
     public partial class Form1 : Form
     {
-        //UserFile file1 = new UserFile();
-        //UserFile file2 = new UserFile();
-
         public Form1()
         {
             InitializeComponent();
@@ -50,13 +47,8 @@ namespace pcomp_gui
                 return;
             }
 
-            // 객체 생성 및 할당
-            PCompare compare = new PCompare();
             // 파일 비교
-            if (false == compare.Compare(txtFile1.Text, txtFile2.Text)) { return; }
-
-            // 비교결과 텍스트박스에 출력
-            txtResult.Text = compare.compareResult;
+            if (false == PCompare.Compare(txtFile1.Text, txtFile2.Text, txtResult)) { return; }
 
         }
 

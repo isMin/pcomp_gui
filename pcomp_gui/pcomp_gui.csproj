@@ -7,7 +7,7 @@
     <ProjectGuid>{63B450CB-EDBE-494E-B088-92709A043540}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>pcomp</RootNamespace>
+    <RootNamespace>pfile</RootNamespace>
     <AssemblyName>pcomp</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -50,7 +50,8 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="PComp.cs" />
+    <Compile Include="PFile.cs" />
+    <Compile Include="PCompare.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
